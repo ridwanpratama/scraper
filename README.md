@@ -17,7 +17,7 @@ You can scrapping any website using this project.
 	
 ## Technologies
 Project is created with:
-* Laravel 7
+* Laravel 8
 * Goutte package
 	
 ## Setup
